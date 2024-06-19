@@ -1,0 +1,9 @@
+#first{
+    background-color: yellow;
+    width: 100px;
+    height: 100px;
+    color: white;
+    padding: 50px;
+    margin: 100px;
+    visibility: hidden;
+}

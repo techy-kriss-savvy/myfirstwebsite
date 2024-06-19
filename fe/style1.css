@@ -1,0 +1,31 @@
+h1{
+    display: inline;
+
+}
+#a{
+    background-color: rgba(12, 207, 67, 0.25);
+    height: 100px;
+}
+#q{
+    padding-left: 50px;
+    text-decoration: none;
+}
+#w{
+    padding-left: 75px;
+    text-decoration: none;
+}
+#e{
+    padding-left: 100px;
+    text-decoration: none;
+}
+#r{
+    padding-left: 120px;
+    text-decoration: none;
+}
+#t{
+    margin-left: 120px;
+}
+#b{
+    background-color: aqua;
+    margin-top: 60px;
+}
